@@ -40,7 +40,6 @@ body {
 
 .card-wrapper .cards .card:hover {
     transform: translateX(50px);
-    border-radius: 100px;
     transition: transform 0.5s ease-in-out;
 }
 
